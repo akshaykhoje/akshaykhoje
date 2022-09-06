@@ -6,13 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykhoje&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykhoje" /> </p>
 
-- 🔭 I’m currently working on **procfetch, a terminal command similar to neofetch on linux.**
-
-- 🌱 I’m currently learning **Debian packaging, Computer networking, Databases, Operating systems**
+- 🌱 I’m currently learning **Computer networking, Databases and Operating systems**
 
 - 📫 How to reach me **khojeakshay02@gmail.com**
-
-- ⚡ Fun fact **I think I am funny😐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
