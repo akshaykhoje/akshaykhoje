@@ -1,6 +1,6 @@
 [//]:#[![MasterHead](https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif)](https://www.google.com/)
 <h1 align="center">Hi 👋, I'm Akshay Khoje</h1>
-<h3 align="center">A passionate Software Developer and a normie Security guy from India</h3>
+<h3 align="center">A passionate Software Developer and a normie security guy from India</h3>
 <p align="center">
   <img alt="Coding" width="600" src="https://media1.giphy.com/media/zXmbOaTpbY6mA/giphy.gif?cid=ecf05e479sbpaiy2hubq5fxg3ljmppcjspvarq0tbljt2lb8&rid=giphy.gif&ct=g">
 </p>
