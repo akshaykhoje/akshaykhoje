@@ -1,16 +1,6 @@
 [//]:#[![MasterHead](https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif)](https://www.google.com/)
 <h1 align="center">Hi 👋, I'm Akshay Khoje</h1>
 <h3 align="center">Passionate Software Developer and Security Enthusiast from India 🚀</h3>
-<p align="center">
-  <img alt="Coding" width="600" src="https://media1.giphy.com/media/zXmbOaTpbY6mA/giphy.gif?cid=ecf05e479sbpaiy2hubq5fxg3ljmppcjspvarq0tbljt2lb8&rid=giphy.gif&ct=g">
-</p>
-<p align="center"><i>I'm trying to free your mind, neo. But I can only show you the door. You're the one who has to walk through it.</i></p>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akshaykhoje" alt="akshaykhoje" />
-  </a> 
-</p>
 
 ---
 
