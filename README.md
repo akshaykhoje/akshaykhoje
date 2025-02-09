@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Golang**
 
-- 📝 Sometimes I write articles on [Hashnode](https://akshaykhoje.hashnode.dev/) or [dev.to](https://dev.to/akshay_khoje/)
+- 📝 Occasionally I write articles on [Hashnode](https://akshaykhoje.hashnode.dev/) or [dev.to](https://dev.to/akshay_khoje/)
 
 - 💬 Ask me about **Computer Engineering, Linux**
 
